@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sean S.</h1>
+<h1 align="center">Hi 👋, I'm Sean</h1>
 <h3 align="center">Recent Physics and Math College Graduate</h3>
 
 - 🔭 I’m currently working on [My Neural Net Package (MCNets)](https://github.com/SciCapt/Monte-Carlo-Neural-Nets)
