@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
-<h3 align="center">Recent Physics and Math College Graduate</h3>
+<h3 align="center">Applied Physics and Math Graduate w/ Electrical Engineering Experience</h3>
 
-- 🔭 I’m currently working on [My Neural Net Package (MCNets)](https://github.com/SciCapt/Monte-Carlo-Neural-Nets)
+- 🔭 I’m currently working on [My Neural Net Package (MCNets)](https://github.com/SciCapt/Monte-Carlo-Neural-Nets) and Video Game Development
 
-- 🌱 I’m currently learning **C++, CSS**
+- 🌱 I’m currently learning **C++, CSS, C#**
 
-- 🤝 I’m looking for help with **GPU Programming**
+<!-- - 🤝 I’m looking for help with **GPU Programming** -->
 
 - 👨‍💻 All of my projects are available at [https://scicapt.github.io/Projects](https://scicapt.github.io/Projects)
 
-- 💬 Ask me about **Chess, MCNets, Physics**
+- 💬 Ask me about **Chess, MCNets, Physics, Electronics, Machine Learning**
 
 - 📫 How to reach me **svs.2k15@gmail.com**
 
 - 📄 Know about my experiences [https://scicapt.github.io/Resume](https://scicapt.github.io/Resume)
 
-- ⚡ Fun fact **I've made a few Chess AIs, but I'm still not that good at chess...**
+<!-- - ⚡ Fun fact **I've made quite a few Chess AIs, some that actually beat my friends** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
