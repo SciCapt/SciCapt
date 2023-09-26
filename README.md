@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **svs.2k15@gmail.com**
 
-- 📄 Know about my experiences [https://scicapt.github.io/Resume](https://scicapt.github.io/Resume)
+- 📄 Know about my experiences [Through my Resume](https://flowcv.com/resume/0f78qwkpur)
 
 <!-- - ⚡ Fun fact **I've made quite a few Chess AIs, some that actually beat my friends** -->
 
