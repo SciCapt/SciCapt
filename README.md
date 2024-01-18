@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
-<h3 align="center">Applied Physics and Math Graduate w/ Electrical Engineering Experience</h3>
+<h3 align="center">Previous Electrical Engineer with a Physics, Math, Python, and AI/ML background</h3>
 
-- 🔭 I’m currently working on [My Neural Net Package (MCNets)](https://github.com/SciCapt/Monte-Carlo-Neural-Nets) and Video Game Development
+- 🔭 I’m currently working on:
+  - My [Monte Carlo Machine Learning Package (MCNets)](https://github.com/SciCapt/Monte-Carlo-Neural-Nets)
+  - Various Python projects (see my repositories!)
+  - Unity video game development (so much to learn)
 
 - 🌱 I’m currently learning **C++, CSS, C#**
 
@@ -9,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://scicapt.github.io/Projects](https://scicapt.github.io/Projects)
 
-- 💬 Ask me about **Chess, MCNets, Physics, Electronics, Machine Learning**
+- 💬 Ask me about **Chess, Physics, Electronics, Machine Learning**
 
 - 📫 How to reach me **svs.2k15@gmail.com**
 
